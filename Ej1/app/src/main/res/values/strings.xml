@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pantalla_4">Pantalla 4</string>
+    <string name="pantalla_3">Pantalla 3</string>
+    <string name="pantalla_2">Pantalla 2</string>
+    <string name="pantalla_1">Pantalla 1</string>
+</resources>
